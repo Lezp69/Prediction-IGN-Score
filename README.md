@@ -49,7 +49,7 @@ Once you have installed the project, you can use it as follows:
 2. Run the main script to perform data analysis:
 
 
-The script will execute various analysis tasks and generate visualizations based on the available NBA data.
+The script will execute various analysis tasks and generate visualizations, and predictions based on the available IGN data.
 
 ## Data Sources
 
@@ -61,7 +61,7 @@ Please note that the availability and terms of these data sources may change ove
 
 ## Contributing
 
-Contributions to the NBA Project are welcome! If you would like to contribute to the project, please follow these steps:
+Contributions to the Project are welcome! If you would like to contribute to the project, please follow these steps:
 
 1. Fork the repository on GitHub.
 2. Create a new branch for your feature or bug fix.
