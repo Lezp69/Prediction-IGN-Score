@@ -55,7 +55,7 @@ The script will execute various analysis tasks and generate visualizations based
 
 This Project utilizes data from the following sources:
 
-- [IGN MOVIE REVIEWS](https://www.ign.com/reviews/movies)
+[IGN MOVIE REVIEWS](https://www.ign.com/reviews/movies)
 
 Please note that the availability and terms of these data sources may change over time. It is advisable to refer to the respective sources for the most up-to-date information.
 
